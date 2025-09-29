@@ -21,7 +21,7 @@ function App() {
           });
         } else {
           setWeather(null);
-          alert("❌ City not found!");
+          alert("City not found!");
         }
       })
       .catch(error => {
