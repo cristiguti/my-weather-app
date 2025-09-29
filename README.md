@@ -18,4 +18,3 @@ By using this API, I was able to fetch live weather conditions such as temperatu
 1. Clone the repository from GitHub:  
    ```bash
    git clone https://github.com/YourName/my-weather-app.git
-ho
